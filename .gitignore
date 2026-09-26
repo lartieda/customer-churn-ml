@@ -1,0 +1,11 @@
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+.env
+mlruns/
+mlartifacts/
+data/processed/
+reports/figures/
+*.joblib
+.DS_Store
