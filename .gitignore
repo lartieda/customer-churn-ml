@@ -6,6 +6,8 @@ venv/
 mlruns/
 mlartifacts/
 data/processed/
-reports/figures/
 *.joblib
 .DS_Store
+mlflow.db
+data/raw/
+.pytest_cache/
